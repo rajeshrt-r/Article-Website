@@ -1,0 +1,21 @@
+{
+  "name": "RKS Tech World",
+  "short_name": "RKS Tech",
+  "description": "Deep dives into web development, cybersecurity, and large-scale system design.",
+  "start_url": "./RKS_TechWorld_Updated.html",
+  "display": "standalone",
+  "background_color": "#080d14",
+  "theme_color": "#080d14",
+  "icons": [
+    {
+      "src": "SAVE_20250926_151540.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "SAVE_20250926_151540.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
